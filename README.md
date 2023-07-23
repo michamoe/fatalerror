@@ -1,0 +1,2 @@
+# fatalerror
+Created with CodeSandbox
